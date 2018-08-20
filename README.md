@@ -71,7 +71,7 @@ optional arguments:
 ```
 
 ### FeedBack:
-Again, since I developed it for my own internal use but found out that any people need similar stuff for some or the other day to day activities for their media, I thought of open sourcing it.
+Again, since I developed it for my own internal use but found out that many people need similar stuff for some or the other day to day media activities, so I thought of open sourcing it.
 
 Its not very optimized, so any find of bug fixes, feature requests, pull requests, feedback, etc., are welcome...
 
